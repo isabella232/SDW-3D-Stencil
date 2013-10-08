@@ -20,7 +20,7 @@ Then open the `SkookumStencil.scad` file in this repository to start playing wit
 
 ## Turning 2D into 3D
 
-It's relatively easy to turn your 2D log into a 3D object with OpenSCAD. OpenSCAD recognizes the [`dxf`](http://en.wikipedia.org/wiki/AutoCAD_DXF) file format. In order to turn something like an `svg` into a `dxf` there's a few things you have to do:
+It's relatively easy to turn your 2D logo into a 3D object with OpenSCAD. OpenSCAD recognizes the [`dxf`](http://en.wikipedia.org/wiki/AutoCAD_DXF) file format. In order to turn something like an `svg` into a `dxf` there's a few things you have to do:
 
 1. Open your vector file in an image editor and export as an EPS file.
 2. Install the [`pstoedit`](http://www.pstoedit.net/) command line utility on your computer. If you're on a Mac, just use Homebrew and run `brew install pstoedit`.
