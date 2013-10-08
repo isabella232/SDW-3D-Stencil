@@ -4,11 +4,13 @@ This stencil is made of [Polylactic Acid](http://store.makerbot.com/filament#pla
 
 ## Why
 
-Our marketing gurus wanted to send out some cool swag to our clients. So they came up with the idea of spray painting our logo onto the envelopes. So the Skookum Design Team came up with a stencil made of paper.
+Our marketing gurus wanted to send out some cool swag to our clients. They wanted the envelopes to have a "hand made" feel to them so they came up with the idea of spray painting our logo onto the envelopes with a stencil. The Skookum Design Team whipped up a stencil made of paper.
 
 ![The Saturated Stencil](photos/stencil.jpg)
 
-But that paper stencil became flimsy and staurated with paint. So we decided to use our MakerBot Replicator2 to make one ourselves that would be more durable and, frankly, _cooler_.
+But it quickly became apparent that the that paper stencil wouldn't hold up for multiple uses over time. It became flimsy and staurated with paint. So we decided to use our [MakerBot Replicator 2](http://store.makerbot.com/replicator2.html) to make one ourselves that would be more durable and, frankly, _cooler_.
+
+### Here's the finished product:
 
 ![SDW 3D Stencil](photos/sdw_3d.jpg)
 
